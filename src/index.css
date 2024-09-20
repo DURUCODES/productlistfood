@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Text:ital,wght@0,300..700;1,300..700&display=swap");
+body {
+  background-color: hsl(20, 50%, 98%);
+  font-family: "Red Hat Text", sans-serif;
+}
+
+.lastp {
+  color: hsl(12, 20%, 44%);
+  font-size: 12px;
+}
