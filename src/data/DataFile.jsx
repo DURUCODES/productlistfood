@@ -1,10 +1,10 @@
 export const Datafile = [
   {
     image: {
-      thumbnail: "./assets/images/image-waffle-thumbnail.jpg",
-      mobile: "./assets/images/image-waffle-mobile.jpg",
-      tablet: "./assets/images/image-waffle-tablet.jpg",
-      desktop: "./assets/images/image-waffle-desktop.jpg",
+      thumbnail: "../assets/images/image-waffle-thumbnail.jpg",
+      mobile: "../assets/images/image-waffle-mobile.jpg",
+      tablet: "../assets/images/image-waffle-tablet.jpg",
+      desktop: "../assets/images/image-waffle-desktop.jpg",
     },
     name: "Waffle with Berries",
     category: "Waffle",
@@ -12,7 +12,7 @@ export const Datafile = [
   },
   {
     image: {
-      thumbnail: "./assets/images/image-creme-brulee-thumbnail.jpg",
+      thumbnail: "../assets/images/image-creme-brulee-thumbnail.jpg",
       mobile: "./assets/images/image-creme-brulee-mobile.jpg",
       tablet: "./assets/images/image-creme-brulee-tablet.jpg",
       desktop: "./assets/images/image-creme-brulee-desktop.jpg",
